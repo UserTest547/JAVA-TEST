@@ -4,5 +4,5 @@
 -Pour lancer le serveur du  front , on doit rentrer dans le dossier AngularJSFront et ouvrir une fenetre de commande dans ce dossier, tapez ws dans le cmd et entrer,puis choissisez un lien entre les 3
  et ouvrez le dans votre navigateur.
 
-nb:node js et angular cli devrait etre pre-installee dans votre machine
+nb:node js et angular cli devrait etre pre-installee dans votre machine.
 
